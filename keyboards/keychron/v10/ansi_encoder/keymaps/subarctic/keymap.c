@@ -2,6 +2,7 @@
 #if __has_include("keymap.h")
 #    include "keymap.h"
 #endif
+#include "rgb_hid.c"
 
 
 /* THIS FILE WAS GENERATED!
